@@ -1,28 +1,25 @@
-# Hi 👋, I'm zey
+<div align="center">
+  <img height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHF0aTN2bHF4ZGQwOHIyaGE1Nm01bzc1anF1OTZjZHhhbXYzam4zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKFVtPf8jP6KJH16dB/giphy.gif"  />
+</div>
 
-### dev
+###
 
-- 🔭 I'm currently working on **vscode**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
 
-- 🌱 I'm currently learning **php**
+###
 
-- 👯 I'm looking to collaborate on **pornhub.com**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zey-dev/zey-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zey-dev/zey-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zey-dev/zey-dev/output/pacman-contribution-graph.svg">
+</picture>
 
-- 🤝 I'm looking for help with **ambiance**
+###
 
-- 💬 Ask me about **me**
+<div align="center">
+  <img src="https://count.getloli.com/@:zey-dev?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
-- 📫 How to reach me **doryan.mahy009@gmail.com**
-
-- ⚡ Fun fact **i'm goaty**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/d.y4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d.y4n" height="30" width="40" /></a>
-<a href="https://discord.gg/zeyro1." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zeyro1." height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a></p>
-
-
+###
